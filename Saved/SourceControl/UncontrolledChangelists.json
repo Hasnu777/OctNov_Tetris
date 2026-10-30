@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hassa/Documents/University Hub/GDM/Monthly_Jams/OctNov_Tetris/Content/Tetris_World.umap",
+				"C:/Users/hassa/Documents/University Hub/GDM/Monthly_Jams/OctNov_Tetris/Content/BP_Playfield.uasset",
+				"C:/Users/hassa/Documents/University Hub/GDM/Monthly_Jams/OctNov_Tetris/Content/Cube_Material.uasset",
+				"C:/Users/hassa/Documents/University Hub/GDM/Monthly_Jams/OctNov_Tetris/Content/Cube_Material_Inst.uasset"
+			]
+		}
+	]
+}
